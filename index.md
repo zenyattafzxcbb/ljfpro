@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+*{margin:0;padding:0;font-family:Apple SD Gothic Neo;}
+body{ background-image:url('https://i.imgur.com/KC2b45i.jpg');height:100%;}
+.memo{ 
+margin-top:10px;
+margin-bottom:10px;
+opacity: 0.7;
+	background:#fff;
+	height:auto;
+	padding-bottom:20px;
+width:750px;    white-space: normal;
 
-You can use the [editor on GitHub](https://github.com/zenyattafzxcbb/ljfpro/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+	text-align:center;
+        padding-left:4px;padding-top:4px;padding-right:4px;padding-bottom:4px;}
+</style>
+<body><center>
 
-### Markdown
+<div class="memo">
+<p style="padding-top:240px;padding-bottom:240px;font-size:24px;font-family:Apple SD Gothic Neo;">식물 세포와 동물 세포<br><br><br><br><b style="font-size:18px;">2018.04.18</b><br><br><i style="font-size:18px;font-weight:normal;">이준호 및 장석진</i></p>
+</div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<div class="memo">
+<p style="padding-bottom:140px;padding-top:140px;font-size:24px;font-family:Apple SD Gothic Neo;">세포는 무엇인가?<br><br><br><b style="font-size:18px;text-align:left;">세포는 생물을 구성하는 구조적 단위이며 생명 활동이 일어나는 기능적 단위이다.<br><br>세포막으로 둘러싸인 세포 내부는 핵과 세포질로 구분되며 세포질에 다양한 세포 소기관이 있다.</b><br><br><i style="font-size:18px;font-weight:normal;">- 소개 -</i></p>
+</div>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+<div class="memo">
+<p style="padding-top:40px;font-size:24px;font-family:Apple SD Gothic Neo;">식물 세포와 동물 세포의 비교<br><br><br><b style="font-size:18px;"><center><img src="https://i.imgur.com/ewOlgM6.jpg" style="opacity: 1.9;"><br><br>식물 세포와 동물 세포의 비교점<br><br><img src="https://i.imgur.com/f4YJGOw.png" style="opacity: 1.77;"><br><br>식물 세포와 동물 세포의 공통점<br><br>(1) 핵 세포 <br>일어나는 모든 생명활동의 중추로서 여러 기능을 조절하고 유전형질을 결정한다. 핵은 핵막(Nuclear envelope)으로 둘러싸여 있고 안에는 염색사(Chromatin)과 인(Nucleolus)이 들어있고 나머지는 핵액(Nuclear sap)으로 채워져있다. 핵막은 2중막으로 군데군데 핵공(Nuclear pore)이 있다.<br><br>(2) 미토콘드리아<br>ATP(Adenosine TriPhosphate)를 생성하는 세포 소기관이다. 미토콘드리아는 TCA회로를 통해 ADP를 산화적 인산화 과정(Oxidative phosphorylation)을 거쳐 ATP로 만든다.<br><br>(3) 리보솜<br><br>막으로 싸여있지 않으며 rRNA(Ribosomal Ribonucleic acid)와 단백질로 이루어져 있다. 리보솜은 세포질(Cytosol)에 자유롭게 흩어져 있는 것과 소포체(Endoplasmic reticulum)표면에 붙어있는 것이 있다.
+유전정보에 따라 단백질을 합성하는 곳이다.<br><br>
+(4)소포체<br><br>핵막에 바로 연결되고 리보솜이 붙어있는 조면 소포체(Rough Endoplasmic reticulum)와 리보솜이 붙어있지 않은 활면 소포체(Smooth Endoplasmic reticulum)가 있다.
+ 조면소포체는 리보솜에서 합성된 단백질을 운반하거나 골지체로 보내는 일을 한다.
+ 활면소포체는 지질 합성, 해독, 칼슘 이온 저장등의 일을 한다.
+<br><br>
+(5) 골지체<br><br>
+막으로된 납작한 주머니를 여러겹을 쌓은 모양이다. 골지체는 소포체에서 온 물질을 막으로 싸서 세포밖으로 분비한다.
+<br><br>
+(6) 리소좀<br><br>
+ 골지체에서 만들어지고 막으로 둘러싸여 있으며 공모양이다. 리소좀 속에는 여러종류의 가수분해효소가 들어있다.
+<br><br>
+(7) 미세소관<br><br>
+ 단백질로 된 원통모양으로 세포 내 골격을 이루고 세포의 모양을 유지한다.
+<br><br>
+(8) 중심립<br><br>
+ 핵 근처에 한쌍이 서로 직각으로 놓여있으며, 세포분열시 방추사 형성에 관여하며, 9+0구조 이다.
+<br><br>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+</b><br><br><i style="font-size:18px;font-weight:normal;">- 비교 -</i></p>
 
-[Link](url) and ![Image](src)
-```
+</div>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+<div class="memo">
+<p style="padding-bottom:140px;padding-top:140px;font-size:24px;font-family:Apple SD Gothic Neo;">식물 세포와 동물 세포의 비교점<br><br><br><b style="font-size:18px;text-align:left;">생물의 형질은 팩속의DNA가 가진 유전정보에 의해 단백질이 합성되어 나타난다. *리보솜<br><br>세포 내에서 만들어진 단백질은 사람의 키와 피부와 머리카락 같은 외형적 형질부터 지능과 성격같은 행동적 형질등의 형성에 관여한다.<br><br>이처럼 DNA가 가진 유전 정보로 부터 단백질이 합성되어 생물적 특징 형질이 표현되는 과정을 유전자 발현이라고 한다.</b><br><br><i style="font-size:18px;font-weight:normal;">- 비교 (2) -</i></p>
+</div>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zenyattafzxcbb/ljfpro/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+<div class="memo">
+<p style="padding-bottom:140px;padding-top:140px;font-size:24px;font-family:Apple SD Gothic Neo;">이상으로 발표를 마칩니다<br><br><br><b style="font-size:18px;text-align:left;"></b><br><br><i style="font-size:18px;font-weight:normal;">- 마침 -</i></p>
+</div>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
